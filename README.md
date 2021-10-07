@@ -2,7 +2,7 @@
 3d print of challenger hellcat
 
 
-![cura-model](./images/cura-model-view.PNG)
+![cura-model](./images/v01.00-cura-model-view.PNG)
 
 ## v1.00  
 * model from thingiverse by 1000%
