@@ -21,5 +21,13 @@ arm in the middle of the night. noticed warping on the bed as well as the layer 
 there also looked like some burned spots in the white PLA. 
 i suspect a warped end caught the extruder as it was moving into place and knocked it off. 
 
-attempt2: print only the 4 wheels in isolation; will print the body separately in case another print fails. 
+attempt2: 
+* extruder temp = 200.0c -> 190.0c
+wheels only; printing only the 4 wheels in isolation; will print the body separately in case another print fails. 
+brought extruder temp down to 190c to prevent the pla burn.
 leaving all the other print settings the same and will apply glue a bit better to prevent warping from the bed.
+
+body print: 
+* extruder temp = 190.0c
+* layer height = .1mm (reduce time from ~17hr -> ~9). .04mm layer height shouldnt make huge difference in quality 
+since sanding/priming/paint will take place. 
